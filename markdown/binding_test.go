@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/smacker/go-tree-sitter/markdown"
+	"github.com/mitjafelicijan/go-tree-sitter/markdown"
 	"github.com/stretchr/testify/assert"
 )
 
